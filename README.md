@@ -1,1 +1,1 @@
-# Walmart-Stores-Sales-Forecasting-Using-Machine-Learning-Algorithms
+# Walmart-Store-Sales-Forecasting-Using-Machine-Learning-Algorithms
